@@ -22,7 +22,7 @@ A web-based Language Translation Tool built with Python and Flask as part of the
 4. Install dependencies: `pip install flask requests python-dotenv`
 5. Create a `.env` file with your email: `MYMEMORY_EMAIL=your@email.com`
 6. Run: `python app.py`
-7. Open: `http://127.0.0.1:5000`
+7. Open your browser and go to: `http://localhost:5000`
 
 # API Used
 [MyMemory Translation API](https://mymemory.translated.net/)
